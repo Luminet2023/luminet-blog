@@ -2,5 +2,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.fomal.cc/sitemap.xml
-Sitemap: https://www.fomal.cc/baidusitemap.xml
+Sitemap: https://www.hcyhomo.cc/sitemap.xml
+Sitemap: https://www.hcyhomo.cc/baidusitemap.xml
